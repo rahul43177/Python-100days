@@ -1,4 +1,4 @@
-# 100 Days of code
+# 100 Days of code by Angela Yu
 
 - Learning python for backend development
 - Making progress daily
