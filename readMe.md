@@ -10,3 +10,6 @@
   - String literal in python
   - String concatination
 - Day 2 Completed - 14th March
+  - Data types in python
+  - How to convert one data type into another
+  - 
