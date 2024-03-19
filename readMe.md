@@ -12,4 +12,8 @@
 - Day 2 Completed - 14th March
   - Data types in python
   - How to convert one data type into another
+  - Converting integer to floating point - type coersion
+  - Basic operators in python -> + , - , * and /
+  - Project -> Tip calculator
+- Day 3 Completed - 19th March
   - 
